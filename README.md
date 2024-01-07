@@ -1,6 +1,6 @@
-# Max Payne Remix Demo v0.1
+# Max Payne Remix Demo v0.2
 
-https://drive.google.com/file/d/1iNE0H-j6gGDNoMbOgqFUP_11mjV0sQTq/view?usp=sharing
+https://drive.google.com/file/d/1Ngmx26VEwiXvCBYXG76vU-l21c6BjHPp/view?usp=sharing
 
 1. Make backups to your rtx.conf and mod.usda files or move them someplace else
 2. Extract to MP main directory
@@ -12,4 +12,4 @@ https://drive.google.com/file/d/1iNE0H-j6gGDNoMbOgqFUP_11mjV0sQTq/view?usp=shari
 
 Don't steal my work. If you share it somewhere please do credit me
 
-Known issues: Muzzle flashes don't show, faded crosshair, possibly missing particle effects. Will fix in v0.2!
+Known issues: Faded crosshair. Will fix in v0.3!
