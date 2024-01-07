@@ -6,3 +6,5 @@ https://drive.google.com/file/d/1iNE0H-j6gGDNoMbOgqFUP_11mjV0sQTq/view?usp=shari
 3. Adjust DLSS according to your preference
 4. Adjust roughness according to your preference
 5. Enjoy, like, comment
+
+Don't steal my work. If you share it somewhere please do credit me
