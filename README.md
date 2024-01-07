@@ -1,4 +1,4 @@
-# Max Payne Demo v0.1
+# Max Payne Remix Demo v0.1
 
 https://drive.google.com/file/d/1iNE0H-j6gGDNoMbOgqFUP_11mjV0sQTq/view?usp=sharing
 1. Make backups to your rtx.conf and mod.usda files or move them someplace else
