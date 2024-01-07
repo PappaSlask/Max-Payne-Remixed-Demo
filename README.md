@@ -8,3 +8,5 @@ https://drive.google.com/file/d/1iNE0H-j6gGDNoMbOgqFUP_11mjV0sQTq/view?usp=shari
 5. Enjoy, like, comment
 
 Don't steal my work. If you share it somewhere please do credit me
+
+Known issues: Muzzle flashes don't show, flickering text on subway power console, possibly missing bullets? Will fix in v0.2!
