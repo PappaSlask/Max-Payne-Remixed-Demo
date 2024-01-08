@@ -1,6 +1,6 @@
-# Max Payne Remix Demo v0.2
+# Max Payne Remix Demo v0.3
 
-https://drive.google.com/file/d/1Ngmx26VEwiXvCBYXG76vU-l21c6BjHPp/view?usp=sharing
+https://drive.google.com/file/d/1p6OZX1qDtGrd0JmJy682QNrfjwLFpCwV/view?usp=sharing
 
 1. Make backups to your rtx.conf and mod.usda files or move them someplace else
 2. Extract to MP main directory
@@ -12,4 +12,9 @@ https://drive.google.com/file/d/1Ngmx26VEwiXvCBYXG76vU-l21c6BjHPp/view?usp=shari
 
 Don't steal my work. If you share it somewhere please do credit me
 
-Known issues: Faded crosshair. Will fix in v0.3!
+Known issues: Faded crosshair. Will fix in futur version
+
+Changelog:
+v0.1 - Retargeted some textures
+v0.2 - Fixed muzzle flashes and particles, tweaked lighting and materials
+v0.3 - Removed normals from surfaces that shouldn't have
