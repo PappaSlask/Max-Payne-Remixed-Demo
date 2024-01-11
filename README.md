@@ -12,11 +12,8 @@ https://drive.google.com/file/d/1ZzdQ7XbhFpn34GGTJIAkVpCsfTKljl0z/view?usp=shari
 
 Don't steal my work. If you share it somewhere please do credit me
 
-Known issues: Faded crosshair. Will fix in futur version
-
+Known issues: Faded crosshair. Will fix in futur version.
 Changelog:
-v0.1 - Retargeted some textures
-
-v0.2 - Fixed muzzle flashes and particles, tweaked lighting and materials
-
-v0.3 - Removed normals from surfaces that shouldn't have
+v0.1 - Retargeted some textures.
+v0.2 - Fixed muzzle flashes and particles, tweaked lighting and materials.
+v0.3 - Removed normals from surfaces that shouldn't have.
