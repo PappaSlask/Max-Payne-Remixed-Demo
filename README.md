@@ -1,6 +1,8 @@
 # Max Payne Remix Demo v0.3
 
-https://drive.google.com/file/d/1p6OZX1qDtGrd0JmJy682QNrfjwLFpCwV/view?usp=sharing
+https://drive.google.com/file/d/1ZzdQ7XbhFpn34GGTJIAkVpCsfTKljl0z/view?usp=sharing
+
+!!You need a dx8-to-dx9 wrapper for this!!
 
 1. Make backups to your rtx.conf and mod.usda files or move them someplace else
 2. Extract to MP main directory
