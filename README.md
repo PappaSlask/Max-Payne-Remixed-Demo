@@ -13,6 +13,7 @@ https://drive.google.com/file/d/1ZzdQ7XbhFpn34GGTJIAkVpCsfTKljl0z/view?usp=shari
 Don't steal my work. If you share it somewhere please do credit me
 
 Known issues: Faded crosshair. Will fix in future version.
+
 Changelog:
 
 v0.1 - Retargeted some textures.
